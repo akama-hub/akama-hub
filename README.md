@@ -1,6 +1,9 @@
 ### Hi there 👋 <br> This is akama-hub git page.
 
-自己学習用のgitページです
+I studied machine learning on Python and Developing Online games on Unity.
+I presentated "Deep Reinforcement Learning Model Design and Transmission for Network Delay Compensation in 3D Online Shooting Game" on [IEEE Consumer Communications & Networking Conference](https://ccnc2023.ieee-ccnc.org/detailed-program).
+
+I’m currently learning Frontend Web Developement.
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akama-hub)](https://github.com/anuraghazra/github-readme-stats) -->
 
