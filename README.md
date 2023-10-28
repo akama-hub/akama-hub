@@ -12,6 +12,8 @@ Thank you for visiting.
 
 [My Memo (Web Developement)](https://www.notion.so/Web-d42fb036fb454a669e65791c1c23a670?pvs=4)
 
+[Gist](https://gist.github.com/akama-hub)
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akama-hub)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
