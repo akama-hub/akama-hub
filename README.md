@@ -9,6 +9,8 @@ Thank you for visiting.
 
 [My portfolio](https://akama-hub.github.io/Portfolio/)
 
+[My Memo (Web Developement)]([[My portfolio](https://akama-hub.github.io/Portfolio/)](https://www.notion.so/Web-d42fb036fb454a669e65791c1c23a670?pvs=4))
+
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akama-hub)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
