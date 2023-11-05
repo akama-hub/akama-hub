@@ -4,7 +4,7 @@ I studied machine learning on Python and Developing Online games on Unity.<br>
 I presentated "Deep Reinforcement Learning Model Design and Transmission for Network Delay Compensation in 3D Online Shooting Game" on [IEEE Consumer Communications & Networking Conference](https://ccnc2023.ieee-ccnc.org/detailed-program).<br>
 
 I’m currently learning Web Developement.
-(Frontend: Angular, Backend: Django, DB: Postgres, web Server: Nginx)
+(Frontend: Angular × Nginx, Backend: Django × uWsgi, DB: Postgres, MySQL)
 
 Thank you for visiting.
 
